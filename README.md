@@ -4,6 +4,17 @@
 To design and develop a Library Management System using Software Engineering principles and to understand the various phases of software development such as requirement analysis, design, implementation, and testing.
 
 ## SRS (Procedure):
+1. Study the system requirements and understand the working of the Library Management System.
+
+2. Identify the main actors, entities, and processes involved in the system.
+
+3. Define the relationships and interactions among different system components.
+
+4. Select suitable UML diagrams to represent system behavior and structure.
+
+5. Draw the diagrams using standard UML notations in a modeling tool like StarUML or draw.io.
+
+6. Review and verify the diagrams for correctness and completeness.
 
 ## DIAGRAMS:
 
@@ -21,10 +32,10 @@ To design and develop a Library Management System using Software Engineering pri
 <img width="564" height="399" alt="package" src="https://github.com/user-attachments/assets/1e00c673-264e-47a3-b2c9-a54a4b8c5205" />
 
 ### Communication Diagram
-<img width="852" height="441" alt="communication" src="https://github.com/user-attachments/assets/4d96c44a-0523-4685-99f0-c4fb3fd00d82" />
+<img width="1061" height="759" alt="image" src="https://github.com/user-attachments/assets/fb6d1b01-f4d4-4cb2-90c7-00196950e4ab" />
 
 ### Activity Diagram
-<img width="808" height="796" alt="activity" src="https://github.com/user-attachments/assets/dafe7177-b1ad-40bb-a1e5-30a4c45bdedc" />
+<img width="607" height="895" alt="image" src="https://github.com/user-attachments/assets/8069c283-198b-4aac-999b-a36ce1a97450" />
 
 # RESULT:
 Thus the Library management system project was executed and the output was verified.
