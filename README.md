@@ -4,17 +4,17 @@
 To design and develop a Library Management System using Software Engineering principles and to understand the various phases of software development such as requirement analysis, design, implementation, and testing.
 
 ## SRS (Procedure):
-1. Study the system requirements and understand the working of the Library Management System.
 
-2. Identify the main actors, entities, and processes involved in the system.
 
-3. Define the relationships and interactions among different system components.
+1. **Library Management System** is designed to handle the daily activities of a library efficiently. It helps manage books, members, and library records in an organized and easy way.
 
-4. Select suitable UML diagrams to represent system behavior and structure.
+2. The system allows members to register and create their library accounts. They can search for books, check availability, and reserve or borrow books online.
 
-5. Draw the diagrams using standard UML notations in a modeling tool like StarUML or draw.io.
+3. The librarian can use the system to add new books, update existing records, and keep track of issued and returned books.
 
-6. Review and verify the diagrams for correctness and completeness.
+4. The system automatically calculates due dates and fines for late returns, ensuring smooth management of borrowed books.
+
+5. The administrator can monitor all library operations, generate reports, and maintain an updated record of books and members for efficient library management.
 
 ## DIAGRAMS:
 
